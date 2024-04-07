@@ -3,7 +3,7 @@
 ## App Setup
 
 ```
-git clone [https://github.com/John-Weeks-Dev/spotify-clone.git](https://github.com/abblucbih/SpotifyTracker.git)
+git clone [https://github.com/abblucbih/SpotifyTracker.git]
 
 npm i
 
